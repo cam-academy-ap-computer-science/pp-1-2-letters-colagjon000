@@ -1,0 +1,23 @@
+Graded 9/23 by Mark Congdon
+
+Total Score:		24/25
+
+Compiles and Runs:	15/15
+Correct Output:		5/6
+Consistent Style:	2/2
+Efficiency:			2/2
+
+Good work!  Your program is very clean and well-organized.
+
+You had a strange double-quote at the beginning of your
+ending paragraph.  I'm not sure what was intended there, but
+it didn't match up with anything, so I took one point off for
+that.
+
+For future projects, you will want to start adding comments.
+Everybody does comments slightly differently, but at a minimum
+it would have been good to have a comment for the methods that
+were letters and the methods that were shared paragraphs.  You
+did have some descriptive comments identifying your different
+types of friends, but comments that show the overall structure
+of your code can be really helpful, as well.
